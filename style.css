@@ -1,0 +1,14 @@
+.grid-container {
+    display: flex;
+}
+
+.grid-square {
+    width: 20px;
+    height: 20px;
+    border-style: dashed;
+    border-color: red;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
